@@ -24,7 +24,7 @@ The **Student Budget App** is a financial management web application designed to
 To run the project locally:
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone <[repository-link](https://github.com/Zainabm10/Group35-part-C.git)>
    ```
 2. Navigate to the project directory:
    ```bash
